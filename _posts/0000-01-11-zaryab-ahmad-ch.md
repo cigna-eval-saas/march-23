@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+I am a female coder octocat with coffee
 
 ![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 {: .center}
