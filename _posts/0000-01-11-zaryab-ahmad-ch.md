@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Zaryab's slide!"
 ---
 
 I am a female coder octocat with coffee
