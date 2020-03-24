@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Matt Desmond's slide!"
 ---
 
 I'm made of arrows but have no direction. 
