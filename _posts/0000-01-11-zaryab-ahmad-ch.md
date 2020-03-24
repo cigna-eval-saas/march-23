@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Zaryab's slide!"
 ---
 
-Caption here
+I am a female coder octocat with coffee
 
 ![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 {: .center}
