@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to Matt Desmond's slide!"
 ---
 
-I'm made of arrows but have no direction. 
+Celebrating status checks! 
 
-![skitchtocat](https://octodex.github.com/images/skitchtocat.png)
+![skitchtocat](https://octodex.github.com/images/welcometocat.png)
 {: .center}
