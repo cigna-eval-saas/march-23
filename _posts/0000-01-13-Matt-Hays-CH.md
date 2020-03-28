@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Matt H's slide deck!"
 ---
 
-Caption here
+Kon'nichiwa
 
 ![kimonotocat](https://octodex.github.com/images/kimonotocat.png)
 {: .center}
